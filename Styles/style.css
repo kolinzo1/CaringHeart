@@ -1,0 +1,36 @@
+.link {
+    height: 50px;
+    width: 200px;
+    align-items: center;
+    border-style: solid;
+    border-width: thin;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.link {
+    text-align: center;
+    text-justify: auto;
+    font-size: 25px;
+    font-weight: 5;
+    text-decoration: none;
+    border: none;
+    background-color: ivory;
+    opacity: 50%;
+}
