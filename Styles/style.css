@@ -24,6 +24,11 @@
     align-items: end;
 }
 
+.header-container {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
 .link {
     text-align: center;
     text-justify: auto;
@@ -33,4 +38,14 @@
     border: none;
     background-color: ivory;
     opacity: 50%;
+}
+
+
+h1 {
+    text-align: center; 
+}
+
+h3 {
+    font-size: 18px;
+    text-align: center; 
 }
