@@ -40,6 +40,15 @@
     opacity: 50%;
 }
 
+.carousel-inner {
+    display: flex;
+    
+    
+}
+
+.container-lg {
+    padding: 50px,0px;
+}
 
 h1 {
     text-align: center; 
@@ -48,4 +57,9 @@ h1 {
 h3 {
     font-size: 18px;
     text-align: center; 
+}
+
+.bgPicture{
+    background-image: url(./Images/Care_video.gif); 
+    background-repeat: no-repeat;
 }
