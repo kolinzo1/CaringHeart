@@ -6,6 +6,20 @@
     border-width: thin;
 }
 
+.align-items-start {
+    height: 150px;
+    
+}
+
+.nav-link {
+    font-size: 20px;
+    font-style: normal;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 0;
+    background-color: #FFFFFF;
+}
 .image-container {
     display: flex;
     justify-content: center;
@@ -14,7 +28,7 @@
 
 .nav-container {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
 }
 
@@ -58,7 +72,8 @@ h1 {
 }
 
 h2 {
-    text-align: center; 
+    text-align: center;
+    font-size: 40px;
 }
 
 .archivo-black-regular {
@@ -75,7 +90,7 @@ h3 {
 
 .bgPicture{
     background-image: url(../Images/Care_video.gif);
-    height: 220px;
+    height: 500px;
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
