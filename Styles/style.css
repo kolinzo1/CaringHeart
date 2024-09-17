@@ -76,6 +76,18 @@ h2 {
     font-size: 40px;
 }
 
+.header-container {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.sub-heading {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
 .archivo-black-regular {
     font-family: "Archivo Black", sans-serif;
     font-weight: 400;
