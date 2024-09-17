@@ -60,6 +60,7 @@ h3 {
 }
 
 .bgPicture{
-    background-image: url(./Images/Care_video.gif); 
+    background-image: url("../images/Care_video.gif"); 
     background-repeat: no-repeat;
+    width:100%
 }
