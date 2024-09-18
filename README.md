@@ -8,3 +8,5 @@ Website for Caring Heart and Hand home care services.
 
 ## Wireframes
 
+![Hoe page](https://github.com/kolinzo1/CaringHeart/blob/main/Images/CaringHeart_wireframe-Home%20page.drawio.png)
+![About](https://github.com/kolinzo1/CaringHeart/blob/main/Images/CaringHeart_wireframe-About.drawio.png)
