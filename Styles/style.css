@@ -109,3 +109,12 @@ h3 {
     background-repeat: no-repeat;
     width:100%
 }
+
+.bgPicture1{
+    background-image: url(../Images/image5.jfif);
+    height: 300px;
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    width:100%
+}
