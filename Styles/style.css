@@ -118,3 +118,10 @@ h3 {
     background-repeat: no-repeat;
     width:100%
 }
+
+.fit-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
