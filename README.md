@@ -1,4 +1,4 @@
-# Kola Oyedele
+# Caring Heart & Hand
 
 ## Website for Caring Heart and Hand home care services.
 The project is website development for a homecare business called Caring Heart and Hand.
