@@ -1,148 +1,151 @@
 .link {
-    height: 50px;
-    width: 200px;
-    align-items: center;
-    border-style: solid;
-    border-width: thin;
+  height: 50px;
+  width: 200px;
+  align-items: center;
+  border-style: solid;
+  border-width: thin;
 }
 
 .align-items-start {
-    height: 120px;
-    background-color: antiquewhite;
-    
+  height: 120px;
+  background-color: antiquewhite;
 }
 
 .nav-link {
-    font-size: 20px;
-    font-style: normal;
-    
+  font-size: 20px;
+  font-style: normal;
 }
 
 .bg-body-tertiary {
-    --bs-bg-opacity: 0;
-    background-color: #FFFFFF;
+  --bs-bg-opacity: 0;
+  background-color: #ffffff;
 }
 .image-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .nav-container {
-    display: flex;
-    justify-content: left;
-    align-items: center;
+  display: flex;
+  justify-content: left;
+  align-items: center;
 }
 
 .centered-container {
-    /* min-height: 100vh; */
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-bottom: 20px solid #FFFFFF;
-        
+  /* min-height: 100vh; */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 20px solid #ffffff;
 }
 
 .header-container {
-    padding-top: 10px;
-    padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 .link {
-    text-align: center;
-    text-justify: auto;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
-    text-decoration: none;
-    border-color: #fcf807;
-    border-style: solid;
-    border-width: 2px;
-    position: relative;
-    bottom: 10px; /* Adjust as needed to position from the bottom */
-    top: 10%;
-    transform: translateX(-50%); /* Center the link horizontally */
-    /* Additional styles for visibility */
-    color: white; /* Or any color that contrasts with your background */
-    text-decoration: none;
-    padding: 10px 20px;
-    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent background */
-    border-radius: 5px;
-    font-weight: bold;
+  text-align: center;
+  text-justify: auto;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  text-decoration: none;
+  border-color: #fcf807;
+  border-style: solid;
+  border-width: 2px;
+  position: relative;
+  bottom: 10px; /* Adjust as needed to position from the bottom */
+  top: 10%;
+  transform: translateX(-50%); /* Center the link horizontally */
+  /* Additional styles for visibility */
+  color: white; /* Or any color that contrasts with your background */
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent background */
+  border-radius: 5px;
+  font-weight: bold;
 }
 
 .carousel-inner {
-    display: flex;
-    
-    
+  display: flex;
 }
 
 .container-lg {
-    padding: 50px,0px;
+  padding: 50px, 0px;
 }
 
 h1 {
-    text-align: center; 
+  text-align: center;
 }
 
 h2 {
-    text-align: center;
-    font-size: 40px;
+  text-align: center;
+  font-size: 40px;
 }
 
 .header-container {
-    padding-top: 50px;
-    padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 100px;
 }
 
 .sub-heading {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    text-align: center;
-    font-size: 25px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 25px;
 }
 
 .archivo-black-regular {
-    font-family: "Archivo Black", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
-  
 
 h3 {
-    font-size: 18px;
-    text-align: center; 
+  font-size: 18px;
+  text-align: center;
 }
 
-.bgPicture{
-    background-image: url(../Images/Care_video_gif2.gif);
-    height: 500px;
-    background-size: cover;
-    background-position: center; 
-    background-repeat: no-repeat;
-    position: relative;
-    width:100%;
-    
+h4 {
+  font-size: 18px;
+  text-align: left;
 }
 
-.bgPicture1{
-    background-image: url(../Images/image5.jfif);
-    height: 300px;
-    background-size: cover;
-    background-position: center; 
-    background-repeat: no-repeat;
-    width:100%
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-style: regular;
+}
+.bgPicture {
+  background-image: url(../Images/Care_video_gif2.gif);
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;
+}
+
+.bgPicture1 {
+  background-image: url(../Images/image5.jfif);
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
 }
 
 .fit-image {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .row {
-    /* Ensure the row takes up 100% height of the container */
-    min-height: 100%;
-    height: 100%; /* This makes sure the row matches the container's height */
+  /* Ensure the row takes up 100% height of the container */
+  min-height: 100%;
+  height: 100%; /* This makes sure the row matches the container's height */
 }
